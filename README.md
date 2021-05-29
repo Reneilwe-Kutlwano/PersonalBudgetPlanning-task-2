@@ -44,8 +44,8 @@ This project includes the following:
 7. Copy the class cs code.
 8. Delete everything on the page >> at this point you should just have a blank page. 
 9. Paste the class cs into the class library created (This is the child class).
-10.Go back to the program cs and click the green button on the visual studio toolbar to run the program.
-11.The programme will ask you to input data, all of this needs to be in the form of a decimal number.
+10. Go back to the program cs and click the green button on the visual studio toolbar to run the program.
+11. The programme will ask you to input data, all of this needs to be in the form of a decimal number.
 
 
 
