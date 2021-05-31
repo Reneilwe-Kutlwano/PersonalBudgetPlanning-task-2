@@ -39,7 +39,7 @@ This project includes the following:
 
 
 
-### ==============TECHNOLOGY + SOFTWARE REQUIRED=================
+### ===================TECHNOLOGY + SOFTWARE REQUIRED================
 1. A laptop that supports windows10 and microsoft.
 2. Not supported on linux.
 3. Microsoft visual studio 2019.
