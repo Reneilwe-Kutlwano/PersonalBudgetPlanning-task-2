@@ -71,17 +71,18 @@ The fourth issue was just improving the coding standard in general. I did this b
 
 ### ==================RUNNING OF THE PROJECT======================
 
-1. Open visual studio 2019.
-2. Creat a new console application called PersonalBudgetPlanning2 (This console application needs to strictly be for C#).
-3. Copy the program cs code (This is the parent class).
-4. Delete everything on the page >> at this point you should just have a blank page. 
-5. Paste the program cs into visual studio 2019.
-6. On the solution explorer right click on the PersonalBudgetPlanning2 and scroll to "Add" and add a new class library.
-7. Copy the class cs code.
-8. Delete everything on the page >> at this point you should just have a blank page. 
-9. Paste the class cs into the class library created (This is the child class).
-10. Go back to the program cs and click the green button on the visual studio toolbar to run the program.
-11. The programme will ask you to input data, all of this needs to be in the form of a decimal number.
+1. Unzip the zipped file.
+2. Open visual studio 2019.
+3. Creat a new console application called PersonalBudgetPlanning2 (This console application needs to strictly be for C#).
+4. Copy the program cs code (This is the parent class).
+5. Delete everything on the console application page >> at this point you should just have a blank page. 
+6. Paste the program cs into visual studio 2019.
+7. On the solution explorer right click on the PersonalBudgetPlanning2 and scroll to "Add" and add a new class library.
+8. Copy the class cs code.
+9. Delete everything on the class library page just created >> at this point you should just have a blank page. 
+10. Paste the class cs into the class library created (This is the child class).
+11. Go back to the program cs and click the green button on the visual studio toolbar to run the program.
+12. The programme will ask you to input data, all of this needs to be in the form of a decimal number.
 
 
 ### ===================CONTRIBUTORS + SOURCES========================
