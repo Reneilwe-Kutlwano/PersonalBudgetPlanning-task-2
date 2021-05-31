@@ -3,10 +3,11 @@
 
 1. Overview
 2. Features of the project.
-3. Running of the project.
-4. Implementation of the feedback from task 1.
-5. Development dependencies.
-6. Contributors and sources
+3. Development dependencies.
+4.Technology + software required
+5. Implementation of feedback from task 1
+6. Running of the project.
+7. Contributors and sources
 
 ### ============================================
 
@@ -31,22 +32,18 @@ This project includes the following:
 6. Regular notices of whether your expenses are over your monthly income.
 
 
+### ===================DEVELOPMENT DEPENDENCIES======================
+
+1. Microsoft.NETCore.App
+2. Visual studio 2019.
 
 
-### ==================RUNNING OF THE PROJECT======================
 
-1. Open visual studio 2019.
-2. Creat a new console application called PersonalBudgetPlanning2 (This console application needs to strictly be for C#).
-3. Copy the program cs code (This is the parent class).
-4. Delete everything on the page >> at this point you should just have a blank page. 
-5. Paste the program cs into visual studio 2019.
-6. On the solution explorer right click on the PersonalBudgetPlanning2 and scroll to "Add" and add a new class library.
-7. Copy the class cs code.
-8. Delete everything on the page >> at this point you should just have a blank page. 
-9. Paste the class cs into the class library created (This is the child class).
-10. Go back to the program cs and click the green button on the visual studio toolbar to run the program.
-11. The programme will ask you to input data, all of this needs to be in the form of a decimal number.
-
+### ==============TECHNOLOGY + SOFTWARE REQUIRED=================
+1. A laptop that supports windows10 and microsoft.
+2. Not supported on linux.
+3. Microsoft visual studio 2019.
+4. Microsoft.NET framework.
 
 
 
@@ -72,18 +69,23 @@ The third issue was the fact that my code is too long. In task 1 was not at all 
 The fourth issue was just improving the coding standard in general. I did this by making sure that I understood the concepts I was dealing with in task 2 thoroughly such as how methods, object and classes work this helped improve my overall coding standard and by making sure that my code is not unnecissarily long.
 
 
+### ==================RUNNING OF THE PROJECT======================
 
-
-### ===================DEVELOPMENT DEPENDENCIES======================
-
-1. Microsoft.NETCore.App
-2. Visual studio 2019.
-3. C# Programming language.
-
-
+1. Open visual studio 2019.
+2. Creat a new console application called PersonalBudgetPlanning2 (This console application needs to strictly be for C#).
+3. Copy the program cs code (This is the parent class).
+4. Delete everything on the page >> at this point you should just have a blank page. 
+5. Paste the program cs into visual studio 2019.
+6. On the solution explorer right click on the PersonalBudgetPlanning2 and scroll to "Add" and add a new class library.
+7. Copy the class cs code.
+8. Delete everything on the page >> at this point you should just have a blank page. 
+9. Paste the class cs into the class library created (This is the child class).
+10. Go back to the program cs and click the green button on the visual studio toolbar to run the program.
+11. The programme will ask you to input data, all of this needs to be in the form of a decimal number.
 
 
 ### ===================CONTRIBUTORS + SOURCES========================
 
 1. Reneilwe-Kutlwano Motlhabi.
 2. https://www.geeksforgeeks.org/.
+3. Troelsen, A. and Japikse, P. 2017. Pro C# 7 with .NET and .NET Core. 8th ed. Minnesota and Ohio: Andrew and Philip.
