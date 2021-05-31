@@ -78,11 +78,14 @@ The fourth issue was just improving the coding standard in general. I did this b
 5. Delete everything on the console application page >> at this point you should just have a blank page. 
 6. Paste the program cs into visual studio 2019.
 7. On the solution explorer right click on the PersonalBudgetPlanning2 and scroll to "Add" and add a new class library.
-8. Copy the class cs code.
+8. Copy the class1 cs code.
 9. Delete everything on the class library page just created >> at this point you should just have a blank page. 
-10. Paste the class cs into the class library created (This is the child class).
-11. Go back to the program cs and click the green button on the visual studio toolbar to run the program.
-12. The programme will ask you to input data, all of this needs to be in the form of a decimal number.
+10. Paste the class1 cs into the class library created (This is the child class).
+11. Copy class2 cs code. 
+12. Delete everything on the class library page just created >> at this point you should just have a blank page. 
+13. Paste the class2 cs into the class library created (This is the child class).
+14. Go back to the program cs and click the green button on the visual studio toolbar to run the program.
+15. The programme will ask you to input data, all of this needs to be in the form of a decimal number.
 
 
 ### ===================CONTRIBUTORS + SOURCES========================
