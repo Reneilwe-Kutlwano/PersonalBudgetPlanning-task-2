@@ -71,21 +71,22 @@ The fourth issue was just improving the coding standard in general. I did this b
 
 ### ==================RUNNING OF THE PROJECT======================
 
-1. Unzip the zipped file.
-2. Open visual studio 2019.
-3. Creat a new console application called PersonalBudgetPlanning3 (This console application needs to strictly be for C#).
-4. Copy the program cs code (This is the parent class).
-5. Delete everything on the console application page >> at this point you should just have a blank page. 
-6. Paste the program cs into visual studio 2019.
-7. On the solution explorer right click on the PersonalBudgetPlanning2 and scroll to "Add" and add a new class library.
-8. Copy the Expense cs code.
-9. Delete everything on the class library page just created >> at this point you should just have a blank page. 
-10. Paste the Expense cs into the class library created (This is the child class).
-11. Copy Negaive cs code. 
-12. Delete everything on the class library page just created >> at this point you should just have a blank page. 
-13. Paste the Negative cs into the class library created (This is the child class).
-14. Go back to the program cs and click the green button on the visual studio toolbar to run the program.
-15. The programme will ask you to input data, all of this needs to be in the form of a decimal number.
+1. Unzip the zipped file by extracting it.
+2. Unzip the personal budget 3 file by extracting it.
+3. Open visual studio 2019.
+4. Creat a new console application called PersonalBudgetPlanning3 (This console application needs to strictly be for C#).
+5. Copy the program cs code (This is the parent class).
+6. Delete everything on the console application page >> at this point you should just have a blank page. 
+7. Paste the program cs into visual studio 2019.
+8. On the solution explorer right click on the PersonalBudgetPlanning2 and scroll to "Add" and add a new class library.
+9. Copy the Expense cs code.
+10. Delete everything on the class library page just created >> at this point you should just have a blank page. 
+11. Paste the Expense cs into the class library created (This is the child class).
+12. Copy Negaive cs code. 
+13. Delete everything on the class library page just created >> at this point you should just have a blank page. 
+14. Paste the Negative cs into the class library created (This is the child class).
+15. Go back to the program cs and click the green button on the visual studio toolbar to run the program.
+16. The programme will ask you to input data, all of this needs to be in the form of a decimal number.
 
 
 ### ===================CONTRIBUTORS + SOURCES========================
