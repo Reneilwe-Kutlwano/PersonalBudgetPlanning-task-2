@@ -72,11 +72,14 @@ The fourth issue was just improving the coding standard in general. I did this b
 ### ==================RUNNING OF THE PROJECT======================
 
 1. Open the one drive link.
-2. Unzip the zipped file by extracting it.
-3. Unzip the personal budget 3 file by extracting it.
-4. Open visual studio 2019.
-5. Go to the program1 cs and click the green button on the visual studio toolbar to run the program.
-6. The programme will ask you to input data, all of this needs to be in the form of a decimal number.
+2. Download the file on the one drive.
+3. In the file explorer unzip the zipped file by extracting it.
+4. Unzip the personal budget 3 file by extracting it.
+5. Click the unzipped personal budget 3 file.
+6. Select the solution file called PersonalBudget 3.
+7. Visual studio 2019 will open now.
+8. Go to the program1 cs and click the green button on the visual studio toolbar to run the program.
+9. The programme will ask you to input data, all of this needs to be in the form of a decimal number.
 
 
 ### ===================CONTRIBUTORS + SOURCES========================
